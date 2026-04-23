@@ -6,7 +6,7 @@ Welcome to my [homepage](https://woodie-w.github.io/)~
 
 **🔬 Research & Interests**
 
-![Algorithms](https://img.shields.io/badge/-Algorithms-0052CC?style=for-the-badge) ![Computer Systems](https://img.shields.io/badge/-Computer_Systems_(CPU_&_Compilers)-8B0000?style=for-the-badge) ![Quantum ML](https://img.shields.io/badge/-Quantum_Machine_Learning-663399?style=for-the-badge) ![EEG Large Models](https://img.shields.io/badge/-EEG_Large_Models-008080?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/-AI_Agents-FF8C00?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/-Algorithms-0052CC?style=for-the-badge) ![Computer Systems](https://img.shields.io/badge/-Computer_Systems_(CPU_&_Compilers)-8B0000?style=for-the-badge) ![Quantum ML](https://img.shields.io/badge/-Quantum_Machine_Learning-663399?style=for-the-badge) ![Large Language Models](https://img.shields.io/badge/-EEG_Large_Models-008080?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/-AI_Agents-FF8C00?style=for-the-badge)
 
 **💻 Coding Language**
 
@@ -25,3 +25,13 @@ Other              41 hrs 27 mins        >>>----------------------   11.79 %
 Bash               28 hrs 43 mins        >>-----------------------   08.17 %
 C                  23 hrs 14 mins        >>-----------------------   06.61 %
 Markdown           13 hrs 51 mins        >------------------------   03.94 %
+```
+<!--END_SECTION:waka-->
+
+**📊 GitHub Stats**
+
+![](https://github-readme-stats.shion.dev/api?username=Woodie-W&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Woodie-W&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Woodie-W&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
