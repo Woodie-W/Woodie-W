@@ -10,6 +10,19 @@ Wellcome to my [homepage](https://woodie-w.github.io/)~
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 05 September 2025 - To: 23 April 2026
+
+Total Time: 310 hrs 8 mins
+
+Python             214 hrs 31 mins       >>>>>>>>>>>>>>>----------   61.02 %
+Other              41 hrs 27 mins        >>>----------------------   11.79 %
+Bash               28 hrs 43 mins        >>-----------------------   08.17 %
+C                  23 hrs 14 mins        >>-----------------------   06.61 %
+Markdown           13 hrs 51 mins        >------------------------   03.94 %
+```
+
 <!--END_SECTION:waka-->
 
 **📊 GitHub Stats**
