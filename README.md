@@ -30,6 +30,10 @@ Markdown           13 hrs 51 mins        >------------------------   03.94 %
 
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:waka_weekly-->
+<!--END_SECTION:waka_weekly-->
+
+
 **📊 GitHub Stats**
 
 ![](https://github-readme-stats.shion.dev/api?username=Woodie-W&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
