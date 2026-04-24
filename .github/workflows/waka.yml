@@ -1,9 +1,8 @@
 name: WakaTime Status
 
 on:
-  workflow_dispatch: # 允许你手动点击运行按钮
+  workflow_dispatch:
   schedule:
-    # 每天国际标准时间 0 点（北京时间早上 8 点）自动运行一次
     - cron: '0 0 * * *'
 
 jobs:
@@ -11,12 +10,24 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      # 第一步：更新全量统计 (All Time)
+      - name: Update All Time Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka
+          TIME_RANGE: all_time
           SHOW_TITLE: true
           BLOCKS: ->
-          TIME_RANGE: all_time # 可以改成 last_7_days, last_30_days 等
-          LANG_COUNT: 5 # 显示前5种常用语言
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+          LANG_COUNT: 5
+
+      # 第二步：更新周统计 (Last 7 Days)
+      - name: Update Weekly Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka_weekly
+          TIME_RANGE: last_7_days
+          SHOW_TITLE: true
+          BLOCKS: █
+          LANG_COUNT: 5
