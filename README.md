@@ -15,6 +15,7 @@ Welcome to my [homepage](https://woodie-w.github.io/)~
 **⏱ Coding Activity**
 
 <!--START_SECTION:waka-->
+
 ```txt
 From: 05 September 2025 - To: 23 April 2026
 
@@ -26,6 +27,7 @@ Bash               28 hrs 43 mins        >>-----------------------   08.17 %
 C                  23 hrs 14 mins        >>-----------------------   06.61 %
 Markdown           13 hrs 51 mins        >------------------------   03.94 %
 ```
+
 <!--END_SECTION:waka-->
 
 **📊 GitHub Stats**
