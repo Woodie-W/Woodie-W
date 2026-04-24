@@ -12,24 +12,12 @@ Welcome to my [homepage](https://woodie-w.github.io/)~
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-%232C2255.svg?style=for-the-badge)
 
-**⏱ Coding Activity (All Time)**
+**⏱ Coding Activity**
 <!--START_SECTION:waka-->
-
-```txt
-From: 17 April 2026 - To: 24 April 2026
-
-Other         8 hrs 56 mins         ████████▒░░░░░░░░░░░░░░░░   33.42 %
-Python        7 hrs 35 mins         ███████░░░░░░░░░░░░░░░░░░   28.39 %
-Markdown      5 hrs 3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
-C++           2 hrs                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-Bash          1 hr 33 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-```
-
 <!--END_SECTION:waka-->
 
-**⏱ Coding Activity (Last 7 Days)**
-<!--START_SECTION:waka_weekly-->
-<!--END_SECTION:waka_weekly-->
+<!--START_SECTION:weekly-->
+<!--END_SECTION:weekly-->
 
 
 **📊 GitHub Stats**
