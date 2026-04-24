@@ -28,6 +28,17 @@ Markdown           15 hrs 5 mins         >------------------------   04.19 %
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:weekly-->
+
+```txt
+From: 17 April 2026 - To: 24 April 2026
+
+Other         8 hrs 56 mins         ████████▒░░░░░░░░░░░░░░░░   33.42 %
+Python        7 hrs 35 mins         ███████░░░░░░░░░░░░░░░░░░   28.39 %
+Markdown      5 hrs 3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+C++           2 hrs                 ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Bash          1 hr 33 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+```
+
 <!--END_SECTION:weekly-->
 
 
