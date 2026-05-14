@@ -16,13 +16,13 @@ Welcome to my [homepage](https://woodie-w.github.io/)~
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 11 May 2026
+From: 05 September 2025 - To: 12 May 2026
 
-Python             230 hrs 58 mins       >>>>>>>>>>>>>>-----------   56.73 %
-Other              62 hrs 1 min          >>>>---------------------   15.23 %
-Bash               34 hrs 3 mins         >>-----------------------   08.37 %
-Markdown           24 hrs 15 mins        >------------------------   05.96 %
-C                  23 hrs 30 mins        >------------------------   05.77 %
+Python             230 hrs 58 mins       >>>>>>>>>>>>>>-----------   56.34 %
+Other              62 hrs 11 mins        >>>>---------------------   15.17 %
+Bash               34 hrs 5 mins         >>-----------------------   08.31 %
+Markdown           25 hrs 13 mins        >>-----------------------   06.15 %
+C                  23 hrs 42 mins        >------------------------   05.78 %
 ```
 
 <!--END_SECTION:waka-->
