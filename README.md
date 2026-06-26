@@ -30,7 +30,7 @@ C                  25 hrs 29 mins        >------------------------   05.19 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 17 June 2026 - To: 24 June 2026
+From: 18 June 2026 - To: 25 June 2026
 
 C++          2 hrs 51 mins         ████████▒░░░░░░░░░░░░░░░░   32.92 %
 Markdown     2 hrs 16 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
