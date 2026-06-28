@@ -16,7 +16,7 @@ Welcome to my [homepage](https://woodie-w.github.io/)~
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 25 June 2026
+From: 05 September 2025 - To: 26 June 2026
 
 Python             252 hrs 38 mins       >>>>>>>>>>>>>------------   51.37 %
 Other              62 hrs 47 mins        >>>----------------------   12.77 %
