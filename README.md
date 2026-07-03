@@ -30,7 +30,7 @@ C                  25 hrs 29 mins        >------------------------   05.11 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 24 June 2026 - To: 01 July 2026
+From: 25 June 2026 - To: 02 July 2026
 
 Markdown         3 hrs 17 mins         ███████████▓░░░░░░░░░░░░░   46.28 %
 Python           2 hrs 40 mins         █████████▒░░░░░░░░░░░░░░░   37.45 %
