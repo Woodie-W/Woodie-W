@@ -30,13 +30,13 @@ C                  25 hrs 29 mins        >------------------------   05.11 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 25 June 2026 - To: 02 July 2026
+From: 26 June 2026 - To: 03 July 2026
 
-Markdown         3 hrs 17 mins         ███████████▓░░░░░░░░░░░░░   46.28 %
-Python           2 hrs 40 mins         █████████▒░░░░░░░░░░░░░░░   37.45 %
-Graphviz (DOT)   36 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-PlantUML         25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Other            5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Python           3 hrs 53 mins         ███████████▓░░░░░░░░░░░░░   46.65 %
+Markdown         3 hrs 17 mins         ██████████░░░░░░░░░░░░░░░   39.48 %
+Graphviz (DOT)   36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+PlantUML         25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Other            5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:weekly-->
