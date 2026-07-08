@@ -30,13 +30,13 @@ C                  25 hrs 29 mins        >------------------------   05.01 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 29 June 2026 - To: 06 July 2026
+From: 30 June 2026 - To: 07 July 2026
 
-Python       4 hrs 22 mins         █████████▓░░░░░░░░░░░░░░░   38.90 %
-Markdown     3 hrs 15 mins         ███████▒░░░░░░░░░░░░░░░░░   29.09 %
-Other        2 hrs 53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
-Git Config   14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-JavaScript   9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Markdown     3 hrs 15 mins         ████████░░░░░░░░░░░░░░░░░   32.34 %
+Python       3 hrs 14 mins         ████████░░░░░░░░░░░░░░░░░   32.16 %
+Other        2 hrs 53 mins         ███████░░░░░░░░░░░░░░░░░░   28.65 %
+Git Config   14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+JavaScript   9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:weekly-->
