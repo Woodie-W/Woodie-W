@@ -30,7 +30,7 @@ C                  25 hrs 29 mins        >------------------------   04.63 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 28 July 2026 - To: 04 August 2026
+From: 29 July 2026 - To: 05 August 2026
 
 TeX          6 hrs 26 mins         █████████▒░░░░░░░░░░░░░░░   37.82 %
 Markdown     3 hrs 58 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
