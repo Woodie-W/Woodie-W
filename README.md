@@ -30,13 +30,13 @@ C                  25 hrs 29 mins        >------------------------   04.63 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-TeX          6 hrs 26 mins         █████████▒░░░░░░░░░░░░░░░   37.34 %
-Markdown     3 hrs 58 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-Python       2 hrs 35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-Bash         2 hrs 26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-Other        1 hr 28 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+TeX          6 hrs 26 mins         ███████▓░░░░░░░░░░░░░░░░░   30.50 %
+Markdown     5 hrs 25 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.72 %
+Bash         3 hrs 37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
+Python       3 hrs 7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+Other        2 hrs 9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
 ```
 
 <!--END_SECTION:weekly-->
