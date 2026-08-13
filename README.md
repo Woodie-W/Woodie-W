@@ -30,7 +30,7 @@ C                  25 hrs 29 mins        >------------------------   04.52 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 04 August 2026 - To: 11 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
 Markdown     5 hrs 14 mins         █████████▒░░░░░░░░░░░░░░░   37.27 %
 Other        3 hrs 30 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
