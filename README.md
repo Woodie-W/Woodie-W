@@ -30,7 +30,7 @@ C                  25 hrs 29 mins        >------------------------   04.52 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 13 August 2026 - To: 20 August 2026
+From: 14 August 2026 - To: 21 August 2026
 
 Other   22 mins               ███████████████████████▒░   93.25 %
 TeX     1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
