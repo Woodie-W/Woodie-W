@@ -30,7 +30,7 @@ C                  25 hrs 29 mins        >------------------------   04.52 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 17 August 2026 - To: 24 August 2026
+From: 18 August 2026 - To: 25 August 2026
 
 Other   22 mins               █████████████████████████   100.00 %
 ```
