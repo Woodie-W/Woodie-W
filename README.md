@@ -30,9 +30,10 @@ C                  25 hrs 29 mins        >------------------------   04.52 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 25 August 2026 - To: 01 September 2026
+From: 26 August 2026 - To: 02 September 2026
 
-No activity tracked
+YAML   4 mins                █████████████░░░░░░░░░░░░   52.27 %
+Text   4 mins                ████████████░░░░░░░░░░░░░   47.73 %
 ```
 
 <!--END_SECTION:weekly-->
