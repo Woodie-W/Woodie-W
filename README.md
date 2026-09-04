@@ -30,10 +30,11 @@ C                  25 hrs 29 mins        >------------------------   04.52 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 26 August 2026 - To: 02 September 2026
+From: 27 August 2026 - To: 03 September 2026
 
-YAML   4 mins                █████████████░░░░░░░░░░░░   52.27 %
-Text   4 mins                ████████████░░░░░░░░░░░░░   47.73 %
+TeX    30 mins               ███████████████████▒░░░░░   77.58 %
+YAML   4 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+Text   4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
 ```
 
 <!--END_SECTION:weekly-->
