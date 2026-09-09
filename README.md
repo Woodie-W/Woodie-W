@@ -30,7 +30,7 @@ C                  25 hrs 29 mins        >------------------------   04.51 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 31 August 2026 - To: 07 September 2026
+From: 01 September 2026 - To: 08 September 2026
 
 TeX      30 mins               ██████████████▒░░░░░░░░░░   57.65 %
 Python   13 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
