@@ -30,12 +30,12 @@ C                  25 hrs 29 mins        >------------------------   04.50 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Python       2 hrs 51 mins         ████████████████████▒░░░░   81.21 %
-TeX          32 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-Markdown     7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python       2 hrs 51 mins         ███████████████████████▓░   94.78 %
+Markdown     7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+TeX          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:weekly-->
