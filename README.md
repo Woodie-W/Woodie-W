@@ -30,7 +30,7 @@ C                  25 hrs 29 mins        >------------------------   04.50 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 12 September 2026 - To: 19 September 2026
+From: 13 September 2026 - To: 20 September 2026
 
 No activity tracked
 ```
