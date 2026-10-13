@@ -30,7 +30,7 @@ C                  25 hrs 29 mins        >------------------------   04.50 %
 <!--START_SECTION:weekly-->
 
 ```txt
-From: 04 October 2026 - To: 11 October 2026
+From: 05 October 2026 - To: 12 October 2026
 
 No activity tracked
 ```
